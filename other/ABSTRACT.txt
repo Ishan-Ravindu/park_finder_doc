@@ -1,0 +1,16 @@
+This project aims to develop a comprehensive Car Park Management System that includes a mobile app for clients 
+and a web app for administrators. The system's primary objective is to automate the parking lot management 
+process, resulting in a more efficient and convenient parking experience for clients and increased revenue 
+for car park operators.
+
+The proposed mobile app will enable clients to reserve parking spaces, make payments, and receive real-time 
+notifications about parking availability, making the entire parking process more streamlined and user-friendly. 
+The web app for administrators will allow them to monitor parking lot occupancy, billing, and generate reports, 
+reducing the administrative workload and improving management efficiency.
+
+The project's success will be evaluated based on its ability to provide a more efficient and convenient parking 
+experience for clients, increase revenue for car park operators, and reduce the administrative workload associated 
+with managing parking lots.
+
+Overall, the proposed Car Park Management System has the potential to transform the parking industry, providing 
+a user-friendly and efficient approach to managing and monitoring parking lots.
