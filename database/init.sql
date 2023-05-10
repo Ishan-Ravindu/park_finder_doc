@@ -1,6 +1,9 @@
 -- Users Table
 CREATE TABLE Users (
     user_id SERIAL PRIMARY KEY,
+    user_type VARCHAR(6) CHECK (
+        user_type IN ('Admin', 'User', 'ParkOwner', 'SecurityGuard')
+    ),
     mobile_number VARCHAR(15) NOT NULL,
     password_hash VARCHAR(255) NOT NULL,
     password_salt VARCHAR(255) NOT NULL,
